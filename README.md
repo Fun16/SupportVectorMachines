@@ -1,4 +1,4 @@
-# SupportVectorMachines
+# SVM with Hyperparameter Tuning
 This project demonstrates the use of Support Vector Machines (SVM) for binary classification. It includes hyperparameter tuning using GridSearchCV, model evaluation, and visualizations of decision boundaries. The dataset used is generated using make_gaussian_quantiles for simplicity.
 # Project Overview
 Support Vector Machines (SVM) are powerful supervised learning algorithms used for classification and regression tasks. This project explores:
